@@ -7,7 +7,7 @@
 
 ## 实验准备
 
-首先要有sklearn，numpy等包的安装，还需要新安装XGBoost包，安装步骤和之前安装sklearn相同，去https://www.lfd.uci.edu/~gohlke/pythonlibs里安装.whl文件，然后把下载好的文件放到在python的安装目录下面scripts文件夹下，打开powershell，参考[最详细的NumPy安装流程](https://blog.csdn.net/sinat_26933727/article/details/68953193)在命令行中输入
+首先要有sklearn，numpy等包的安装，还需要新安装XGBoost包，安装步骤和之前安装sklearn相同，去 https://www.lfd.uci.edu/~gohlke/pythonlibs 里安装.whl文件，然后把下载好的文件放到在python的安装目录下面scripts文件夹下，打开powershell，参考 [最详细的NumPy安装流程](https://blog.csdn.net/sinat_26933727/article/details/68953193) 在命令行中输入
 
 ```
  pip install \**.whl #你的whl文件所在路径 \ xxx.whl
@@ -152,7 +152,7 @@ plt.show()
 
 ```
 
-上面贴的代码都是进行可视化分析，可以对数据进行一些直观的分析。，图和详细介绍见 [weather.ipynb]()
+上面贴的代码都是进行可视化分析，可以对数据进行一些直观的分析。，图和详细介绍见 [weather.ipynb](https://github.com/cmy123988/artificial_intelligence/blob/xgboost/xgboost/weather.ipynb)
 
 - #### Step5: 对离散变量进行编码
 
@@ -222,7 +222,7 @@ plt.show()
 
 ```
 
-图示和解释见 [weather.py]()
+图示和解释见 [weather.py](https://github.com/cmy123988/artificial_intelligence/blob/xgboost/xgboost/weather.ipynb)
 
 - #### Step7: 利用 XGBoost 进行特征选择
 
