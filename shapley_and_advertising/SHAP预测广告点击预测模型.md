@@ -407,5 +407,5 @@ shap.summary_plot(shap_interaction_values, X_frame)
 
 
 ## 实验总结
-上面案例运用shapley值的计算方法的原理，使用python中的SHAP库，解释了广告点击预测模型。使用python中的SHAP库的主要优点是，当将 Shapley 值应用于机器学习时，它能够更有效地计算 Shapley 值。可以看出，shapley值在机器学习模型可解释性的应用上效果很好。
+上面案例运用shapley值的计算方法的原理，使用python中的SHAP库，解释了广告点击预测模型。使用python中的SHAP库的主要优点是，当将 Shapley 值应用于机器学习时，它能够更有效地计算 Shapley 值。可以看出，shapley值在机器学习模型可解释性的应用上效果很好，提供了对于每一个特征的完整的解释。
 
